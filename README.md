@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![1ICP](https://user-images.githubusercontent.com/89507014/157661115-92df4993-564c-43d0-9f4f-f355a17807cc.GIF)
+
 **abrarsharif66/abrarsharif66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
