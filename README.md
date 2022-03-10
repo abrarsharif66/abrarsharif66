@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--![1ICP](https://user-images.githubusercontent.com/89507014/157661115-92df4993-564c-43d0-9f4f-f355a17807cc.GIF)
 
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![1ICP (1)](https://user-images.githubusercontent.com/89507014/157661424-f5ea95c4-a5cc-4380-94c1-f0cbfced0f30.gif)
+
+![robot-wave-waving ff](https://user-images.githubusercontent.com/89507014/157662925-243c7563-c8cd-402b-a5b5-f38c6cdceeb6.gif)
