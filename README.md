@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm AbrarSharif</h1>
 <h3 align="center">A passionate for Machine learning.</h3>
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarsharif66&label=Profile%20views&color=0e75b6&style=flat" alt="abrarsharif66" /> </p>
 
