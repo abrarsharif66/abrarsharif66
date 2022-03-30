@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarsharif66&label=Profile%20views&color=0e75b6&style=flat" alt="abrarsharif66" /> </p>
 
-- 🌱 I’m currently learning **Sentimental analysis,python**
+- 🌱 I’m currently learning **Sentimental analysis,python<Jupyter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abrarsharif66](https://github.com/abrarsharif66)
 
