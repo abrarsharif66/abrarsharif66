@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abrarsharif66](https://github.com/abrarsharif66)
-
 - 📫 How to reach me **abrarsharif66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
