@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbrarSharif</h1>
-<h3 align="center">Aspiring to be DevOps Engineer.</h3>
+<h3 align="center">Aspiring to be AI Engineer.</h3>
 <img align="right" alt="coding" width="350" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarsharif66&label=Profile%20views&color=0e75b6&style=flat" alt="abrarsharif66" /> </p>
