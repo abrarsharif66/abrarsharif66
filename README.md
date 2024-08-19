@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarsharif66&label=Profile%20views&color=0e75b6&style=flat" alt="abrarsharif66" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+
 
 - 📫 How to reach me **abrarsharif66@gmail.com**
 
