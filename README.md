@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm AbrarSharif</h1>
-<h3 align="center">Aspiring to be AI Engineer.</h3>
-<img align="right" alt="coding" width="350" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+!+👋👋;+I'm+Abrar+Sharif!;" />
+</h1>
+<h3 align="center">AI Engineer wiht hands on experience on building reliable LLM applications</h3>
+
+  - 🌱 I’m currently learning **System Design**<br>
+  - 📫 How to reach me **abrarsharif66@gmail.com**<br>
+
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarsharif66&label=Profile%20views&color=0e75b6&style=flat" alt="abrarsharif66" /> </p>
 
 
 
-- 📫 How to reach me **abrarsharif66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,13 +21,26 @@
 <a href="https://discord.gg/#5049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5049" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+--- 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarsharif66&show_icons=true&locale=en&layout=compact" alt="abrarsharif66" /></p>
+<h3 align="center">🔧Languages and Tools</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,opencv,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,c,cpp,java,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,go,fastapi,docker" /><br>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarsharif66&show_icons=true&locale=en" alt="abrarsharif66" /></p>
+
+---
+
+<h3 align="center">⚙️ GitHub Stats</h3>
 
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abrarsharif66&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=abrarsharif66&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarsharif66&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarsharif66&" alt="abrarsharif66" /></p>
