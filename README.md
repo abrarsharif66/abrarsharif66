@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+!+👋👋;+I'm+Abrar+Sharif!;" />
 </h1>
-<h3 align="center">AI Engineer wiht hands on experience on building reliable LLM applications</h3>
+<h3 align="center">AI Engineer with hands on experience on building reliable LLM applications</h3>
 
   - 🌱 I’m currently learning **System Design**<br>
   - 📫 How to reach me **abrarsharif66@gmail.com**<br>
